@@ -1,5 +1,5 @@
 # 💫 About Me:
-Android Dev • Kotlin • 
+Android Dev • Kotlin
 
 
 # 💻 Tech Stack:
